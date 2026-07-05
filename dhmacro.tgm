@@ -1,0 +1,28 @@
+{
+    "FileType":"TGM Gaming Macro Project (TGMacro)",
+    "Version":"3.051",
+    "Macros":[
+      {
+        "MacroSettings":{
+          "Enable":true,
+          "LegacyMode":true,
+          "InputLimit":120
+        },
+        "TriggerType":1,
+        "TriggerMethod":1,
+        "MacroName":"Macro",
+        "Enable":1,
+        "TriggerKey":81,
+        "Actions":[
+          {
+            "ActionType":2,
+            "Key":73
+          },
+          {
+            "ActionType":2,
+            "Key":79
+          }
+        ]
+      }
+    ]
+  }
